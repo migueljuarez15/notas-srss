@@ -102,9 +102,11 @@ discord or IRC.
   Enjoy your stay!
 ```
 ## Notas Adicionales
-- whoami - Me dice que usuario soy.
-- hostname - Me dice el nombre del sevidor.
-- pwd - Me dice en que carpeta estoy.
+- whoami - Muestra que usuario soy.
+- hostname - Muestra el nombre del sevidor.
+- pwd - Carpeta en la que estoy.
 - ls - Listado de archivos.
 - clear / Ctrl + L - Borrar pantalla.
 ## Referencias
+- [Secure Shell (SSH) on Wikipedia](https://en.wikipedia.org/wiki/Secure_Shell)
+- [How to use SSH on wikiHow](https://www.wikihow.com/Use-SSH)
