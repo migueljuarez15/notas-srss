@@ -11,8 +11,10 @@ The password for the next level is stored in a file somewhere under the **inher
 - **Contraseña:** 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 ##### Después de conseguir la contraseña en el archivo humanamente-legible, de 1033 bytes y no ejectubale del directorio "inhere":
 - **Usuario:** bandit6
-- **Contraseña descubierta:** 
+- **Contraseña descubierta:** HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ## Solución
 ## Notas Adicionales
+- **ls -R** - Lista archivos de forma recursiva, es decir, las carpetas con las subcarpetas, etc.
+- **find . -type f -size c** - 
 ## Referencias
 - [OverTheWire](https://overthewire.org/wargames/bandit/bandit1.html)
