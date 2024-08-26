@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba731f69a04a9bfe",
+        "id": "a582df0f1996b2bd",
         "type": "tabs",
         "children": [
           {
-            "id": "4116a93f94364cf2",
+            "id": "65922168cdcaebf4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bf2da9e1b8e2fb26",
@@ -130,20 +130,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4116a93f94364cf2",
+  "active": "65922168cdcaebf4",
   "lastOpenFiles": [
-    "retos-bandit/Bandit Level 0.md",
-    "Bienvenido.md",
-    "README.md",
+    "retos-bandit/Bandit Level 5 → Level 6.md",
+    "retos-bandit/Bandit Level 4 → Level 5.md",
+    "retos-bandit/Bandit Level 0 → Level 1.md",
+    "retos-bandit/Bandit Level 1 → Level 2.md",
     "retos-bandit/Plantilla.md",
+    "retos-bandit/Bandit Level 2 → Level 3.md",
+    "retos-bandit/Bandit Level 3 → Level 4.md",
+    "retos-bandit/Bandit Level 0.md",
+    "Untitled.md",
+    "README.md",
+    "Bienvenido.md",
     "Sin título.md",
     "retos-bandit"
   ]
