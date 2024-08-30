@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ffbba4f7ca58e79a",
+        "id": "ed1e0f2219cf3b83",
         "type": "tabs",
         "children": [
           {
-            "id": "f378f45e17ff50e2",
+            "id": "ff80ec65360abc17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Bandit Level 11 Level 12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retos-bandit/Bandit Level 11 Level 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retos-bandit/Bandit Level 11 Level 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retos-bandit/Bandit Level 11 Level 12.md"
+              }
             }
           }
         ]
@@ -130,16 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f378f45e17ff50e2",
+  "active": "ff80ec65360abc17",
   "lastOpenFiles": [
+    "retos-bandit/Bandit Level 12 Level 13.md",
+    "retos-bandit/Bandit Level 11 Level 12.md",
+    "retos-bandit/Plantilla.md",
+    "retos-bandit/Bandit Level 10 Level 11.md",
     "retos-bandit/Bandit Level 9 → Level 10.md",
     "retos-bandit/Bandit Level 7 → Level 8.md",
     "retos-bandit/Bandit Level 8 → Level 9.md",
@@ -151,7 +163,6 @@
     "retos-bandit/Bandit Level 4 → Level 5.md",
     "retos-bandit/Bandit Level 5 → Level 6.md",
     "retos-bandit/Bandit Level 0 → Level 1.md",
-    "retos-bandit/Plantilla.md",
     "Untitled.md",
     "README.md",
     "Bienvenido.md",
