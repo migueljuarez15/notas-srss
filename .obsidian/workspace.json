@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2502b6685d2302",
+        "id": "03ea0a163f24ac9b",
         "type": "tabs",
         "children": [
           {
-            "id": "98520f115b0dee29",
+            "id": "f6c1387beb4d776a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-web/01-06 picobrowser.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/retos-web/01-06 picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/retos-web/01-06 picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/retos-web/01-06 picobrowser.md"
+              }
             }
           }
         ]
@@ -130,45 +138,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "98520f115b0dee29",
+  "active": "f6c1387beb4d776a",
   "lastOpenFiles": [
+    "picoCTF/retos-web/01-05 Client-side-again.md",
+    "picoCTF/retos-web/01-01 dont-use-client-side.md",
+    "picoCTF/retos-web/01-04 where are the robots.md",
+    "picoCTF/retos-web/01-03 logon.md",
+    "picoCTF/retos-web/01-02 Insp3ct0r.md",
+    "retos-bandit/Bandit Level 1 → Level 2.md",
+    "picoCTF/retos-web/01-06 picobrowser.md",
+    "picoCTF/parcial1/02-02 convertme.py.md",
+    "picoCTF/parcial1/01-08 Repetitions.md",
+    "picoCTF/Plantilla.md",
+    "docs/Documento de Capturas de Instalación - Miguel Angel Juarez Martinez.pdf",
+    "picoCTF/parcial1/03-04 Nice Netcat.md",
+    "picoCTF/retos-web",
+    "picoCTF/parcial1/02-06 Magikarp Ground Mission.md",
     "picoCTF/parcial1/01-10 Time Machine.md",
     "picoCTF/parcial1/01-09 Super SSH.md",
     "picoCTF/parcial1/01-02 Binary Search.md",
     "picoCTF/parcial1/01-01 Big Zip.md",
-    "picoCTF/parcial1/01-08 Repetitions.md",
     "picoCTF/parcial1/01-07 First Find.md",
     "picoCTF/parcial1/01-04 Blame Game.md",
     "picoCTF/parcial1/01-05 Collaborative Development.md",
     "picoCTF/parcial1/01-06 Commitment Issues.md",
     "picoCTF/parcial1/01-03 Binhexa.md",
-    "picoCTF/Plantilla.md",
     "retos-bandit/Bandit Level 8 → Level 9.md",
     "retos-bandit/Bandit Level 9 → Level 10.md",
     "retos-bandit/Bandit Level 10 → Level 11.md",
     "retos-bandit/Bandit Level 11 → Level 12.md",
     "retos-bandit/Bandit Level 12 → Level 13.md",
-    "retos-bandit/Bandit Level 33 → Level 34.md",
     "picoCTF/parcial1",
-    "retos-bandit/Plantilla.md",
-    "retos-bandit/Bandit Level 7 → Level 8.md",
     "picoCTF",
     "Nueva carpeta",
-    "retos-bandit/Bandit Level 6 → Level 7.md",
-    "retos-bandit/Bandit Level 5 → Level 6.md",
-    "retos-bandit/Bandit Level 4 → Level 5.md",
-    "retos-bandit/Bandit Level 27 → Level 28.md",
-    "retos-bandit/Bandit Level 22 → Level 23.md",
-    "retos-bandit/Bandit Level 23 → Level 24.md",
-    "retos-bandit/Bandit Level 24 → Level 25.md",
     "retos-bandit"
   ]
 }
