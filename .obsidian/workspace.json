@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/03-01 Cookies.md",
+                "file": "picoCTF/retos-web/03-03 Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-web/03-01 Cookies.md",
+                "file": "picoCTF/retos-web/03-03 Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-web/03-01 Cookies.md",
+                "file": "picoCTF/retos-web/03-03 Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-web/03-01 Cookies.md"
+                "file": "picoCTF/retos-web/03-03 Scavenger Hunt.md"
               }
             }
           }
@@ -138,19 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "d8ba79a1a1791fee",
   "lastOpenFiles": [
     "picoCTF/retos-web/03-02 GET aHEAD.md",
-    "picoCTF/retos-web/03-03 Scavenger Hunt.md",
     "picoCTF/retos-web/03-01 Cookies.md",
+    "picoCTF/retos-web/03-03 Scavenger Hunt.md",
     "picoCTF/retos-web/01-06 picobrowser.md",
     "picoCTF/retos-web/02-01 Irish-Name-Repo 1.md",
     "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
