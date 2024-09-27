@@ -140,6 +140,8 @@ Disallow: /index.html
 - ##### Finalmente ingresamos al archivo ".DS_Store", y obtenemos la última parte de la bandera.
 ```
 Congrats! You completed the scavenger hunt. Part 5: _74cceb07}
+
+Flag: picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_74cceb07}
 ```
 ## Notas Adicionales
 ## Referencias
