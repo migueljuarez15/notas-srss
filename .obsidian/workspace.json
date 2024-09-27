@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
+                "file": "picoCTF/retos-web/03-01 Cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
+                "file": "picoCTF/retos-web/03-01 Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
+                "file": "picoCTF/retos-web/03-01 Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md"
+                "file": "picoCTF/retos-web/03-01 Cookies.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "d8ba79a1a1791fee",
   "lastOpenFiles": [
-    "picoCTF/retos-web/02-02 Irish-Name-Repo 2.md",
-    "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
+    "picoCTF/retos-web/03-02 GET aHEAD.md",
+    "picoCTF/retos-web/03-03 Scavenger Hunt.md",
+    "picoCTF/retos-web/03-01 Cookies.md",
+    "picoCTF/retos-web/01-06 picobrowser.md",
     "picoCTF/retos-web/02-01 Irish-Name-Repo 1.md",
+    "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
     "picoCTF/retos-web/02-04 JaWT Scratchpad.md",
-    "picoCTF/retos-web/01-06 picobrowser.md"
+    "picoCTF/retos-web/02-02 Irish-Name-Repo 2.md"
   ]
 }
