@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/04-03 SOAP.md",
+                "file": "picoCTF/retos-web/04-04 Trickster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-web/04-03 SOAP.md",
+                "file": "picoCTF/retos-web/04-04 Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-web/04-03 SOAP.md",
+                "file": "picoCTF/retos-web/04-04 Trickster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-web/04-03 SOAP.md"
+                "file": "picoCTF/retos-web/04-04 Trickster.md"
               }
             }
           }
@@ -138,25 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "df822f7a87f5c8ce",
   "lastOpenFiles": [
-    "picoCTF/retos-web/04-02 Most Cookies.md",
-    "picoCTF/retos-web/04-01 MatchTheRegex.md",
-    "picoCTF/retos-web/04-04 Trickster.md",
     "picoCTF/retos-web/04-03 SOAP.md",
+    "picoCTF/retos-web/04-01 MatchTheRegex.md",
+    "picoCTF/retos-web/04-02 Most Cookies.md",
+    "picoCTF/retos-web/03-01 Cookies.md",
+    "picoCTF/retos-web/04-04 Trickster.md",
     "picoCTF/retos-web/01-06 picobrowser.md",
     "picoCTF/retos-web/02-02 Irish-Name-Repo 2.md",
     "picoCTF/retos-web/02-04 JaWT Scratchpad.md",
     "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
-    "picoCTF/retos-web/03-01 Cookies.md",
     "picoCTF/retos-web/03-02 GET aHEAD.md",
     "picoCTF/retos-web/03-03 Scavenger Hunt.md",
     "picoCTF/retos-web/02-01 Irish-Name-Repo 1.md"

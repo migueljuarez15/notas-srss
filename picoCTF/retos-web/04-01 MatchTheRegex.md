@@ -1,6 +1,5 @@
 ## Objetivo
 How about trying to match a regular expression.
-The website is running [here](http://saturn.picoctf.net:52271/).
 ## Solución
 - ##### Al entrar en la instancia e inspeccionar el código fuente de la página, observamos que hay una función llamada "send_request()", la cual hace que cualquier input valide que coincida con la Regex "/flag".
 ``` html
