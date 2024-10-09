@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-forensic/01-05 What Lies Within.md",
+                "file": "picoCTF/retos-forensic/02-05 WhitePages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-forensic/01-05 What Lies Within.md",
+                "file": "picoCTF/retos-forensic/02-05 WhitePages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-forensic/01-05 What Lies Within.md",
+                "file": "picoCTF/retos-forensic/02-05 WhitePages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-forensic/01-05 What Lies Within.md"
+                "file": "picoCTF/retos-forensic/02-05 WhitePages.md"
               }
             }
           }
@@ -148,11 +148,17 @@
   },
   "active": "df822f7a87f5c8ce",
   "lastOpenFiles": [
-    "picoCTF/retos-forensic/01-04 So Meta.md",
+    "picoCTF/retos-forensic/02-04 shark on wire 2.md",
     "picoCTF/retos-forensic/01-03 shark on wire 1.md",
-    "picoCTF/retos-forensic/01-02 extensions.md",
+    "picoCTF/retos-forensic/02-03 m00nwalk.md",
+    "picoCTF/retos-forensic/02-02 like1000.md",
+    "picoCTF/retos-forensic/02-01 c0rrupt.md",
+    "picoCTF/retos-forensic/02-05 WhitePages.md",
     "picoCTF/retos-forensic/01-01 Glory of the Garden.md",
+    "picoCTF/retos-forensic/01-02 extensions.md",
     "picoCTF/retos-forensic/01-05 What Lies Within.md",
+    "picoCTF/retos-forensic/01-04 So Meta.md",
+    "picoCTF/retos-forensic/like1000",
     "picoCTF/retos-web/01-06 picobrowser.md",
     "picoCTF/retos-web/01-03 logon.md",
     "picoCTF/retos-web/01-04 where are the robots.md",
