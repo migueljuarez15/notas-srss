@@ -11,8 +11,12 @@
             "id": "e5bbfd2b92a83a66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-crypto/01-04 Easy1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/retos-crypto/01-04 Easy1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/retos-crypto/01-04 Easy1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/retos-crypto/01-04 Easy1.md"
+              }
             }
           }
         ]
@@ -140,6 +148,17 @@
   },
   "active": "e5bbfd2b92a83a66",
   "lastOpenFiles": [
+    "CTF-MetaRed-Mexico-2024/Misc - Thermal Camera.md",
+    "picoCTF/retos-crypto/01-04 Easy1.md",
+    "picoCTF/retos-crypto/01-02 The Numbers.md",
+    "picoCTF/retos-crypto/01-03 caesar.md",
+    "picoCTF/retos-crypto/01-01 13.md",
+    "picoCTF/retos-crypto/01-05 la cifra de.md",
+    "picoCTF/retos-crypto/01-06 Tapping.md",
+    "picoCTF/retos-crypto/01-07 waves over lambda.md",
+    "picoCTF/retos-forensic/01-01 Glory of the Garden.md",
+    "Pasted image 20241015123309.png",
+    "picoCTF/retos-crypto",
     "picoCTF/retos-forensic/04-02 Milkslap.md",
     "picoCTF/retos-forensic/04-03 Operation Oni.md",
     "picoCTF/retos-forensic/04-04 Operation Orchid.md",
@@ -147,12 +166,10 @@
     "picoCTF/retos-forensic/04-06 Sleuthkit Intro.md",
     "picoCTF/retos-forensic/04-01 Disk, disk, sleuth!.md",
     "CTF-MetaRed-Mexico-2024/Network - UH HA HA.md",
-    "CTF-MetaRed-Mexico-2024/Misc - Thermal Camera.md",
     "picoCTF/retos-forensic/03-03 tunn3l v1s10n.md",
     "picoCTF/retos-forensic/03-05 WebNet1.md",
     "picoCTF/retos-forensic/03-04 WebNet0.md",
     "04-05.md",
-    "Pasted image 20241015123309.png",
     "picoCTF/retos-forensic/02-04 shark on wire 2.md",
     "CTF-MetaRed-Mexico-2024",
     "picoCTF/retos-forensic/02-05 WhitePages.md",
@@ -160,14 +177,6 @@
     "picoCTF/retos-forensic/03-02 Matryoshka doll.md",
     "picoCTF/retos-forensic/01-04 So Meta.md",
     "picoCTF/retos-forensic/01-03 shark on wire 1.md",
-    "picoCTF/retos-forensic/01-02 extensions.md",
-    "picoCTF/retos-forensic/01-01 Glory of the Garden.md",
-    "picoCTF/retos-web/02-02 Irish-Name-Repo 2.md",
-    "picoCTF/retos-web/02-03 Irish-Name-Repo 3.md",
-    "picoCTF/retos-web/02-04 JaWT Scratchpad.md",
-    "picoCTF/retos-web/03-01 Cookies.md",
-    "picoCTF/retos-web/03-02 GET aHEAD.md",
-    "picoCTF/retos-web/03-03 Scavenger Hunt.md",
     "picoCTF/retos-forensic/like1000",
     "picoCTF/retos-forensic"
   ]
