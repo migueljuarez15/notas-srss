@@ -141,4 +141,4 @@ Flag: flagmx{the_details_are_important}
 ```
 ## Notas Adicionales
 #### Resuelto por: 
-Armando Perales Cruz
+Crimson_Predators - Armando Perales Cruz

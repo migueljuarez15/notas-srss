@@ -37,4 +37,4 @@ Flag: flagmx{encryption_is_so_fancy}
 ```
 ## Notas Adicionales
 #### Resuelto por: 
-Víctor Manuel Correa Magallanes
+Crimson_Predators - Víctor Manuel Correa Magallanes

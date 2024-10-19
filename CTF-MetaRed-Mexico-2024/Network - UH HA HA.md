@@ -47,4 +47,4 @@ Flag: flagmx{cuv4v3}
 ```
 ## Notas Adicionales
 #### Resuelto por: 
-Bianca Delgado Chairez
+Crimson_Predators - Bianca Delgado Chairez
