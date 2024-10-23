@@ -1,7 +1,8 @@
+## Objetivo
 A Traffic from an unknown user has been captured, analyze this capture and find out what happened
 
 Remember to use the flag format: flagmx{XXXX}
-
+## Solución
 ```
 ┌──(kali㉿kali)-[~/MetaRedCTF]
 └─$ wireshark r4.pcap
@@ -39,3 +40,11 @@ Compressed: 222
 └─$ cat r1.txt   
 flagmx{cuv4v3}
 ```
+
+- ##### Obtenemos la bandera.
+```
+Flag: flagmx{cuv4v3}
+```
+## Notas Adicionales
+#### Resuelto por: 
+Crimson_Predators - Bianca Delgado Chairez

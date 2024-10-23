@@ -33,4 +33,4 @@ Flag: flagmx{0573}
 ## Notas Adicionales
 - Una **cámara termográfica** (o **cámara térmica**) es un dispositivo que mide la temperatura y ofrece una imagen térmica de los objetos, sin necesidad de contacto, a partir de las emisiones de radiación infrarroja de estos.
 #### Resuelto por: 
-Miguel Ángel Juárez Martínez
+Crimson_Predators - Miguel Ángel Juárez Martínez
