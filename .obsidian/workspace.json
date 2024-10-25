@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a12d239bd455e993",
+        "id": "744d416627b3a4b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e45739fdceef9546",
+            "id": "ad7ceab16e204f1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/retos-crypto/02-03 rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02-03 rsa-pop-quiz"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -158,12 +154,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e45739fdceef9546",
+  "active": "ad7ceab16e204f1b",
   "lastOpenFiles": [
+    "picoCTF/retos-crypto/03-01 basic-mod1.md",
+    "picoCTF/retos-crypto/03-02 HideToSee.md",
+    "picoCTF/retos-crypto/03-03 Mind your Ps and Qs.md",
+    "picoCTF/retos-crypto/03-04 Pixelated.md",
+    "picoCTF/retos-crypto/03-05 ReadMyCert.md",
+    "picoCTF/retos-crypto/01-06 Tapping.md",
+    "picoCTF/retos-crypto/02-03 rsa-pop-quiz.md",
     "picoCTF/retos-crypto/02-02 miniRSA.md",
     "picoCTF/retos-crypto/02-01 b00tl3gRSA2.md",
-    "picoCTF/retos-crypto/02-03 rsa-pop-quiz.md",
-    "picoCTF/retos-crypto/01-06 Tapping.md",
     "picoCTF/retos-crypto/01-07 waves over lambda.md",
     "README.md",
     "picoCTF/Plantilla.md",
@@ -183,11 +184,6 @@
     "picoCTF/retos-forensic/04-06 Sleuthkit Intro.md",
     "picoCTF/retos-forensic/04-01 Disk, disk, sleuth!.md",
     "CTF-MetaRed-Mexico-2024/Network - UH HA HA.md",
-    "picoCTF/retos-forensic/03-03 tunn3l v1s10n.md",
-    "picoCTF/retos-forensic/03-05 WebNet1.md",
-    "picoCTF/retos-forensic/03-04 WebNet0.md",
-    "04-05.md",
-    "picoCTF/retos-forensic/02-04 shark on wire 2.md",
     "CTF-MetaRed-Mexico-2024",
     "picoCTF/retos-forensic/like1000",
     "picoCTF/retos-forensic"
