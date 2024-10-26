@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "744d416627b3a4b7",
+        "id": "0dd21e055ecf44e1",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7ceab16e204f1b",
+            "id": "c99be1d605cca23c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/parcial2/04-03 Disk, disk, sleuth II - Forensic.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "04-03 Disk, disk, sleuth II - Forensic"
             }
           }
         ]
@@ -154,36 +158,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ad7ceab16e204f1b",
+  "active": "c99be1d605cca23c",
   "lastOpenFiles": [
-    "picoCTF/retos-crypto/03-01 basic-mod1.md",
-    "picoCTF/retos-crypto/03-02 HideToSee.md",
-    "picoCTF/retos-crypto/03-03 Mind your Ps and Qs.md",
-    "picoCTF/retos-crypto/03-04 Pixelated.md",
-    "picoCTF/retos-crypto/03-05 ReadMyCert.md",
-    "picoCTF/retos-crypto/01-06 Tapping.md",
-    "picoCTF/retos-crypto/02-03 rsa-pop-quiz.md",
-    "picoCTF/retos-crypto/02-02 miniRSA.md",
-    "picoCTF/retos-crypto/02-01 b00tl3gRSA2.md",
-    "picoCTF/retos-crypto/01-07 waves over lambda.md",
-    "README.md",
-    "picoCTF/Plantilla.md",
-    "CTF-MetaRed-Mexico-2024/Misc - Thermal Camera.md",
-    "picoCTF/retos-crypto/01-04 Easy1.md",
-    "picoCTF/retos-crypto/01-02 The Numbers.md",
-    "picoCTF/retos-crypto/01-03 caesar.md",
-    "picoCTF/retos-crypto/01-01 13.md",
-    "picoCTF/retos-crypto/01-05 la cifra de.md",
-    "picoCTF/retos-forensic/01-01 Glory of the Garden.md",
+    "picoCTF/parcial2/04-09 Wireshark twoo twooo two twoo... - Forensic.md",
+    "picoCTF/parcial2/04-08 St3g0 - Forensic.md",
+    "picoCTF/parcial2/04-07 Redaction gone wrong - Forensic.md",
+    "picoCTF/parcial2/04-06 Pitter, Patter, Platters - Forensic.md",
+    "picoCTF/retos-forensic/04-03 Operation Oni.md",
+    "picoCTF/retos-forensic/04-02 Milkslap.md",
+    "picoCTF/retos-forensic/04-01 Disk, disk, sleuth!.md",
+    "picoCTF/parcial2/04-04 Lookey here - Forensic.md",
+    "picoCTF/parcial2/04-02 advanced-potion-making - Forensic.md",
+    "picoCTF/parcial2/04-01 Secret of the Polyglot - Forensic.md",
+    "picoCTF/parcial2/03-07 PcapPoisoning - Forensic.md",
+    "picoCTF/parcial2/03-06 Packets Primer - Forensic.md",
+    "picoCTF/parcial2/03-05 MSB - Forensic.md",
+    "picoCTF/parcial2/03-04 FindAndOpen - Forensic.md",
+    "picoCTF/parcial2/03-03 Enhance - Forensic.md",
+    "picoCTF/parcial2/03-02 Eavesdrop - Forensic.md",
+    "picoCTF/parcial2/03-01 information - Forensic.md",
+    "picoCTF/parcial2/04-05 PcapPoisoning - Forensic.md",
+    "picoCTF/parcial2/01-10 SQLiLite - Web.md",
+    "picoCTF/parcial2/01-01 Bookmarklet - Web.md",
+    "picoCTF/parcial2/04-03 Disk, disk, sleuth II - Forensic.md",
+    "picoCTF/parcial2/02-09 Who are you - Web.md",
+    "picoCTF/parcial2/02-08 SQLiLite - Web.md",
+    "picoCTF/parcial2/02-07 Roboto Sans - Web.md",
+    "picoCTF/parcial2/02-06 login - Web.md",
+    "picoCTF/parcial2/02-05 Java Code Analysis - Web.md",
+    "picoCTF/parcial2",
     "Pasted image 20241015123309.png",
     "picoCTF/retos-crypto",
-    "picoCTF/retos-forensic/04-02 Milkslap.md",
-    "picoCTF/retos-forensic/04-03 Operation Oni.md",
-    "picoCTF/retos-forensic/04-04 Operation Orchid.md",
-    "picoCTF/retos-forensic/04-05 Sleuthkit Apprentice.md",
-    "picoCTF/retos-forensic/04-06 Sleuthkit Intro.md",
-    "picoCTF/retos-forensic/04-01 Disk, disk, sleuth!.md",
-    "CTF-MetaRed-Mexico-2024/Network - UH HA HA.md",
     "CTF-MetaRed-Mexico-2024",
     "picoCTF/retos-forensic/like1000",
     "picoCTF/retos-forensic"
