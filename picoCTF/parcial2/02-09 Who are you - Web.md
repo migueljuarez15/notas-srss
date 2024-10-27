@@ -2,7 +2,7 @@
 ## Solución
 - ##### Ola.
 ```
-Flag: picoCTF{atbash_crack_1f84d779}
+Flag:
 ```
 ## Notas Adicionales
 ## Referencias
