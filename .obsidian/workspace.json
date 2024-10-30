@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/parcial2/02-01 IntroToBurp - Web.md",
+                "file": "picoCTF/retos-reversing/01-05 vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-01 IntroToBurp - Web"
+              "title": "01-05 vault-door-5"
             }
           }
         ]
@@ -160,9 +160,18 @@
   },
   "active": "c99be1d605cca23c",
   "lastOpenFiles": [
+    "picoCTF/retos-reversing/01-04 vault-door-4.md",
+    "picoCTF/retos-reversing/01-03 vault-door-3.md",
+    "picoCTF/retos-reversing/01-02 vault-door-1.md",
+    "picoCTF/retos-reversing/01-01 vault-door-training.md",
+    "picoCTF/retos-reversing/01-05 vault-door-5.md",
+    "picoCTF/retos-crypto/03-04 Pixelated.md",
+    "picoCTF/retos-crypto/01-02 The Numbers.md",
+    "picoCTF/parcial2/04-05 PcapPoisoning - Forensic.md",
+    "picoCTF/parcial2/02-01 IntroToBurp - Web.md",
+    "picoCTF/retos-reversing",
     "picoCTF/parcial2/02-05 Java Code Analysis - Web.md",
     "picoCTF/parcial2/02-09 Who are you - Web.md",
-    "picoCTF/parcial2/02-01 IntroToBurp - Web.md",
     "picoCTF/parcial2/03-03 Enhance - Forensic.md",
     "picoCTF/parcial2/03-02 Eavesdrop - Forensic.md",
     "picoCTF/parcial2/01-09 SQL Direct - Web.md",
@@ -178,14 +187,6 @@
     "picoCTF/parcial2/02-06 login - Web.md",
     "picoCTF/parcial2/02-04 It is my Birthday - Web.md",
     "picoCTF/parcial2/02-03 caas - Web.md",
-    "picoCTF/parcial2/02-02 Unminify - Web.md",
-    "picoCTF/parcial2/02-08 SQLiLite - Web.md",
-    "picoCTF/parcial2/01-10 SQLiLite - Web.md",
-    "picoCTF/parcial2/04-03 Disk, disk, sleuth II - Forensic.md",
-    "picoCTF/parcial2/04-09 Wireshark twoo twooo two twoo... - Forensic.md",
-    "picoCTF/parcial2/04-08 St3g0 - Forensic.md",
-    "picoCTF/parcial2/04-07 Redaction gone wrong - Forensic.md",
-    "picoCTF/parcial2/04-06 Pitter, Patter, Platters - Forensic.md",
     "picoCTF/parcial2",
     "Pasted image 20241015123309.png",
     "picoCTF/retos-crypto",
