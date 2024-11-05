@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-reversing/02-06 timer.md",
+                "file": "picoCTF/retos-reversing/03-03 asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-06 timer"
+              "title": "03-03 asm3"
             }
           }
         ]
@@ -160,12 +160,16 @@
   },
   "active": "c99be1d605cca23c",
   "lastOpenFiles": [
-    "picoCTF/retos-reversing/02-05 Safe Opener 2.md",
+    "picoCTF/retos-reversing/03-02 asm2.md",
+    "picoCTF/retos-reversing/03-01 asm1.md",
+    "picoCTF/retos-reversing/04-01 asm4.md",
+    "picoCTF/retos-reversing/03-03 asm3.md",
     "picoCTF/retos-reversing/02-04 Picker IV.md",
+    "picoCTF/retos-reversing/02-05 Safe Opener 2.md",
+    "picoCTF/retos-reversing/02-06 timer.md",
     "picoCTF/retos-reversing/02-03 Picker III.md",
     "picoCTF/retos-reversing/02-02 Picker II.md",
     "picoCTF/retos-reversing/02-01 Picker I.md",
-    "picoCTF/retos-reversing/02-06 timer.md",
     "picoCTF/retos-reversing/01-02 vault-door-1.md",
     "picoCTF/retos-reversing/01-05 vault-door-5.md",
     "picoCTF/retos-reversing/01-04 vault-door-4.md",
@@ -183,10 +187,6 @@
     "picoCTF/parcial2/01-09 SQL Direct - Web.md",
     "picoCTF/parcial2/01-05 More SQLi - Web.md",
     "picoCTF/parcial2/01-08 Secrets - Web.md",
-    "picoCTF/parcial2/01-07 Search source - Web.md",
-    "picoCTF/parcial2/01-06 Power Cookie - Web.md",
-    "picoCTF/parcial2/01-04 Local Authority - Web.md",
-    "picoCTF/parcial2/01-03 Inspect HTML - Web.md",
     "picoCTF/parcial2",
     "Pasted image 20241015123309.png",
     "picoCTF/retos-crypto",
