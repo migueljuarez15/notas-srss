@@ -11,10 +11,14 @@
             "id": "b9e60858244fd47b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/retos-binexp/01-01 basic-file-exploit.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "01-01 basic-file-exploit"
             }
           }
         ]
@@ -156,9 +160,16 @@
   },
   "active": "b9e60858244fd47b",
   "lastOpenFiles": [
+    "picoCTF/retos-binexp/01-02 buffer overflow 0.md",
+    "picoCTF/retos-binexp/01-03 flag leak.md",
+    "picoCTF/retos-binexp/01-04 RPS.md",
+    "picoCTF/retos-binexp/01-05 Stonks.md",
+    "picoCTF/retos-binexp/01-01 basic-file-exploit.md",
+    "picoCTF/retos-reversing/04-03 Need For Speed.md",
+    "picoCTF/Sin título.md",
+    "picoCTF/retos-binexp",
     "picoCTF/retos-reversing/04-01 GDB Test Drive.md",
     "picoCTF/retos-reversing/04-04 reverse_cipher.md",
-    "picoCTF/retos-reversing/04-03 Need For Speed.md",
     "picoCTF/retos-reversing/04-02 asm4.md",
     "picoCTF/retos-reversing/03-03 asm3.md",
     "picoCTF/retos-reversing/03-02 asm2.md",
@@ -176,13 +187,7 @@
     "picoCTF/retos-reversing/01-01 vault-door-training.md",
     "picoCTF/retos-crypto/03-04 Pixelated.md",
     "picoCTF/retos-crypto/01-02 The Numbers.md",
-    "picoCTF/parcial2/04-05 PcapPoisoning - Forensic.md",
-    "picoCTF/parcial2/02-01 IntroToBurp - Web.md",
     "picoCTF/retos-reversing",
-    "picoCTF/parcial2/02-05 Java Code Analysis - Web.md",
-    "picoCTF/parcial2/02-09 Who are you - Web.md",
-    "picoCTF/parcial2/03-03 Enhance - Forensic.md",
-    "picoCTF/parcial2/03-02 Eavesdrop - Forensic.md",
     "picoCTF/parcial2",
     "Pasted image 20241015123309.png",
     "picoCTF/retos-crypto",
