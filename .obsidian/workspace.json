@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c6a70039b60baf",
+        "id": "41e8ad211f491618",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e60858244fd47b",
+            "id": "dc07a7d41c3dc95d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-binexp/01-01 basic-file-exploit.md",
+                "file": "picoCTF/retos-binexp/02-01 buffer overflow 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-01 basic-file-exploit"
+              "title": "02-01 buffer overflow 1"
             }
           }
         ]
@@ -158,15 +158,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b9e60858244fd47b",
+  "active": "dc07a7d41c3dc95d",
   "lastOpenFiles": [
+    "picoCTF/retos-binexp/02-02 clutter-overflow.md",
+    "picoCTF/retos-binexp/02-01 buffer overflow 1.md",
+    "picoCTF/parcial3/01-01 C3 - Crypto.md",
+    "picoCTF/parcial2/01-03 Inspect HTML - Web.md",
+    "picoCTF/parcial3",
+    "picoCTF/Sin título.md",
+    "picoCTF/retos-binexp/01-04 RPS.md",
+    "picoCTF/retos-binexp/01-01 basic-file-exploit.md",
     "picoCTF/retos-binexp/01-02 buffer overflow 0.md",
     "picoCTF/retos-binexp/01-03 flag leak.md",
-    "picoCTF/retos-binexp/01-04 RPS.md",
     "picoCTF/retos-binexp/01-05 Stonks.md",
-    "picoCTF/retos-binexp/01-01 basic-file-exploit.md",
     "picoCTF/retos-reversing/04-03 Need For Speed.md",
-    "picoCTF/Sin título.md",
     "picoCTF/retos-binexp",
     "picoCTF/retos-reversing/04-01 GDB Test Drive.md",
     "picoCTF/retos-reversing/04-04 reverse_cipher.md",
@@ -183,10 +188,6 @@
     "picoCTF/retos-reversing/01-02 vault-door-1.md",
     "picoCTF/retos-reversing/01-05 vault-door-5.md",
     "picoCTF/retos-reversing/01-04 vault-door-4.md",
-    "picoCTF/retos-reversing/01-03 vault-door-3.md",
-    "picoCTF/retos-reversing/01-01 vault-door-training.md",
-    "picoCTF/retos-crypto/03-04 Pixelated.md",
-    "picoCTF/retos-crypto/01-02 The Numbers.md",
     "picoCTF/retos-reversing",
     "picoCTF/parcial2",
     "Pasted image 20241015123309.png",
